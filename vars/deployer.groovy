@@ -14,7 +14,7 @@ metadata:
 spec:
   containers:
   - name: egov-deployer
-    image: egovio/egov-deployer:3-master-931c51ff
+    image: egovio/egov-deployer:azure-cli-2.57.0
     command:
     - cat
     tty: true
