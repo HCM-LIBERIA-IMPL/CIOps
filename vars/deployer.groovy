@@ -50,6 +50,7 @@ spec:
                         kubectl config current-context
                         aws-iam-authenticator version
                         kubectl get nodes
+                        az --version
                     """
                 }
             }
